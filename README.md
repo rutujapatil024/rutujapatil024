@@ -28,18 +28,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
-```python
-class Rutuja:
-    def __init__(self):
-        self.role     = "MCA Final Year @ K. J. Somaiya Institute of Management"
-        self.grad     = "April 2027"
-        self.focus    = ["Data Analytics", "Systems Development"]
-        self.stack    = ["SQL", "Python", "Java", "MERN", "Tableau", "Power BI"]
-        self.currently = "building dashboards that actually answer questions"
-
-    def why_hire_me(self):
-        return "I ship end-to-end: raw data → model → dashboard → deployed app."
-```
 
 - 🕸️ **Final-year MCA** with a BCA base — comfortable from database schema to React component
 -  I live between **SQL queries, Tableau canvases, and Power BI DAX measures**
