@@ -42,10 +42,10 @@ class Rutuja:
 ```
 
 - 🕸️ **Final-year MCA** with a BCA base — comfortable from database schema to React component
-- 📊 I live between **SQL queries, Tableau canvases, and Power BI DAX measures**
-- 🧠 Building ML projects that solve real problems, not toy datasets
-- 🏆 2nd place @ TekZone · Development Head @ ICON Techfest
-- ⚡ Fun fact: my favourite debugging tool is a blank notebook and a pen
+-  I live between **SQL queries, Tableau canvases, and Power BI DAX measures**
+-  Building ML projects that solve real problems, not toy datasets
+-  2nd place @ TekZone · Development Head @ ICON Techfest
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5D0,50:F2F2F7,100:FF2E88" width="100%" />
