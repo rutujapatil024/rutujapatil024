@@ -65,22 +65,56 @@
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Featured Builds
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/rutujapatil024/CampusConnect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rutujapatil024&repo=CampusConnect&bg_color=0B0B12&title_color=FF2E88&text_color=F2F2F7&icon_color=00E5D0&border_color=FF2E88&border_radius=12" />
-</a>
-<a href="https://github.com/rutujapatil024/ML_Visit_Predictor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rutujapatil024&repo=ML_Visit_Predictor&bg_color=0B0B12&title_color=FF2E88&text_color=F2F2F7&icon_color=00E5D0&border_color=00E5D0&border_radius=12" />
-</a>
-<a href="https://github.com/rutujapatil024/LeadSense">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rutujapatil024&repo=LeadSense&bg_color=0B0B12&title_color=FF2E88&text_color=F2F2F7&icon_color=00E5D0&border_color=00E5D0&border_radius=12" />
-</a>
-<a href="https://github.com/rutujapatil024/SalonBook-Android-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rutujapatil024&repo=SalonBook-Android-App&bg_color=0B0B12&title_color=FF2E88&text_color=F2F2F7&icon_color=00E5D0&border_color=FF2E88&border_radius=12" />
-</a>
+### 🕸️ CampusConnect
+MERN campus recruitment platform — JWT auth, role-based dashboards.
 
-</div>
+<img src="https://img.shields.io/github/languages/top/rutujapatil024/CampusConnect?style=flat-square&color=FF2E88&labelColor=0B0B12" />
+<img src="https://img.shields.io/github/last-commit/rutujapatil024/CampusConnect?style=flat-square&color=00E5D0&labelColor=0B0B12" />
+
+**[→ open repo](https://github.com/rutujapatil024/CampusConnect)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 ML_Visit_Predictor
+*"Should I Visit?"* — crowd prediction for Indian landmarks.
+
+<img src="https://img.shields.io/github/languages/top/rutujapatil024/ML_Visit_Predictor?style=flat-square&color=FF2E88&labelColor=0B0B12" />
+<img src="https://img.shields.io/github/last-commit/rutujapatil024/ML_Visit_Predictor?style=flat-square&color=00E5D0&labelColor=0B0B12" />
+
+**[→ open repo](https://github.com/rutujapatil024/ML_Visit_Predictor)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 LeadSense
+Lead intelligence — raw prospect data into ranked signal.
+
+<img src="https://img.shields.io/github/languages/top/rutujapatil024/LeadSense?style=flat-square&color=FF2E88&labelColor=0B0B12" />
+<img src="https://img.shields.io/github/last-commit/rutujapatil024/LeadSense?style=flat-square&color=00E5D0&labelColor=0B0B12" />
+
+**[→ open repo](https://github.com/rutujapatil024/LeadSense)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 SalonBook
+Android salon booking app with slot management.
+
+<img src="https://img.shields.io/github/languages/top/rutujapatil024/SalonBook-Android-App?style=flat-square&color=FF2E88&labelColor=0B0B12" />
+<img src="https://img.shields.io/github/last-commit/rutujapatil024/SalonBook-Android-App?style=flat-square&color=00E5D0&labelColor=0B0B12" />
+
+**[→ open repo](https://github.com/rutujapatil024/SalonBook-Android-App)**
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🕸️ Open the web — more project detail</b></summary>
@@ -106,20 +140,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rutujapatil024&show_icons=true&count_private=true&bg_color=0B0B12&title_color=FF2E88&text_color=F2F2F7&icon_color=00E5D0&border_color=FF2E88&border_radius=12&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujapatil024&layout=compact&langs_count=8&bg_color=0B0B12&title_color=FF2E88&text_color=F2F2F7&border_color=00E5D0&border_radius=12" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=rutujapatil024&background=0B0B12&ring=FF2E88&fire=00E5D0&currStreakLabel=FF2E88&sideLabels=F2F2F7&dates=8A8A99&sideNums=F2F2F7&currStreakNum=00E5D0&border=FF2E88&border_radius=12" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutujapatil024&bg_color=0B0B12&color=F2F2F7&line=FF2E88&point=00E5D0&area=true&area_color=FF2E88&hide_border=true&radius=12" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rutujapatil024&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://ghchart.rshah.org/FF2E88/rutujapatil024" width="95%" alt="contribution chart" />
 
 </div>
 
